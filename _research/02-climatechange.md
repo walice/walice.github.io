@@ -12,23 +12,23 @@ feature_row:
     alt: "Trade"
     excerpt: "<h1>Trade</h1> Calculate how much to decarbonize at home and how many allowances to buy"
 gallery:
-  - url: /assets/images/skyshares-emissions.png
-    image_path: assets/images/skyshares-emissions.png
+  - url: /assets/images/SkyShares-emissions.png
+    image_path: assets/images/SkyShares-emissions.png
     alt: "Emissions"
-  - url: /assets/images/skyshares-allowances.png
-    image_path: assets/images/skyshares-allowances.png
+  - url: /assets/images/SkyShares-allowances.png
+    image_path: assets/images/SkyShares-allowances.png
     alt: "Allowances"
-  - url: /assets/images/skyshares-transfers.png
-    image_path: assets/images/skyshares-transfers.png
+  - url: /assets/images/SkyShares-transfers.png
+    image_path: assets/images/SkyShares-transfers.png
     alt: "Transfers"
-  - url: /assets/images/skyshares-flows.png
-    image_path: assets/images/skyshares-flows.png
+  - url: /assets/images/SkyShares-flows.png
+    image_path: assets/images/SkyShares-flows.png
     alt: "Financial flows"
-  - url: /assets/images/skyshares-decarb-costs.png
-    image_path: assets/images/skyshares-decarb-costs.png
+  - url: /assets/images/SkyShares-decarb-costs.png
+    image_path: assets/images/SkyShares-decarb-costs.png
     alt: "Decarbonization costs"
-  - url: /assets/images/skyshares-total-costs.png
-    image_path: assets/images/skyshares-total-costs.png
+  - url: /assets/images/SkyShares-total-costs.png
+    image_path: assets/images/SkyShares-total-costs.png
     alt: "Total costs"
 ---
 
