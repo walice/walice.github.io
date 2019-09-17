@@ -8,5 +8,5 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
-    url: walice.github.io/assets/vitae.pdf/
+    url: /assets/vitae.pdf/
     description: "PDF version"
