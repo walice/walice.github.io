@@ -14,7 +14,7 @@ feature_row:
     url: /research/01-illicitfinancialflows/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/photography/2010-09-10-canal-des-Pangalanes-copy.jpg"
+  - image_path: /assets/photography/2010-09-10-canal-des-Pangalanes-copy.jpg
     image_caption: <i class="fas fa-camera"></i> AL
     alt: "Climate Change"
     title: "Climate Change"
