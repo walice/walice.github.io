@@ -14,22 +14,22 @@ feature_row:
 gallery:
   - url: /assets/images/skyshares-emissions.png
     image_path: assets/images/skyshares-emissions.png
-    alt: "placeholder image 1"
+    alt: "Emissions"
   - url: /assets/images/skyshares-allowances.png
     image_path: assets/images/skyshares-allowances.png
-    alt: "placeholder image 2"
+    alt: "Allowances"
   - url: /assets/images/skyshares-transfers.png
     image_path: assets/images/skyshares-transfers.png
-    alt: "placeholder image 3"
+    alt: "Transfers"
   - url: /assets/images/skyshares-flows.png
     image_path: assets/images/skyshares-flows.png
-    alt: "placeholder image 4"
+    alt: "Financial flows"
   - url: /assets/images/skyshares-decarb-costs.png
     image_path: assets/images/skyshares-decarb-costs.png
-    alt: "placeholder image 5"
+    alt: "Decarbonization costs"
   - url: /assets/images/skyshares-total-costs.png
     image_path: assets/images/skyshares-total-costs.png
-    alt: "placeholder image 6"
+    alt: "Total costs"
 ---
 
 One of my main research streams is the design of policies to mitigate climate change.
