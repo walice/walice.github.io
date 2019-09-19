@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Alice Lépissier"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "PhD student in Environmental Science and Management"
+  bio    : "PhD candidate in Environmental Science and Management"
   location: "Santa Barbara, USA"
   links:
     # - label: "Santa Barbara, USA"

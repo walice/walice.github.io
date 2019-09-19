@@ -7,7 +7,7 @@ header:
   caption: Mangily, Madagascar, 2010. <i class="fas fa-camera"></i> A. Lépissier
 ---
 
-I am a PhD student at the Bren School of Environment Science & Management at the University of California, Santa Barbara. I am a political economist and an applied statistician.
+I am a PhD candidate at the Bren School of Environment Science & Management at the University of California, Santa Barbara. I am a political economist and an applied statistician.
 
 My research focuses on deforestation, climate change, and illicit financial flows. I use quasi-experimental techniques from econometrics and data science to answer questions about pressing environmental problems.
 
