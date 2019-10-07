@@ -15,7 +15,7 @@ I have served as a Teaching Assistant for courses taught in the department of Po
 ### ESM 269 & ED 218 Survey Design and Environmental Public Opinion
 
 ## Fall 2019 Office Hours
-* Tuesday 12:30pm-2pm in Bren 3418
+* Wednesday 1:00pm-2:30pm in Bren 3418
 * Or by appointment
 
 <!-- Calendly inline widget begin -->
