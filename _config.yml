@@ -16,7 +16,7 @@
 title: Alice Lépissier
 email:  alepissier@bren.ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The academic and personal website of Alice Lépissier.
+  The professional and academic website of Alice Lépissier.
 # Write an awesome description for your new site here. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
@@ -27,7 +27,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.16.6
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -134,5 +134,3 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-    order:
-      - research/illicitfinancialflows.md

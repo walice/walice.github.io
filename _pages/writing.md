@@ -51,4 +51,3 @@ Annex IV of "Track it! Stop it! Get it!" (with Alex Cobham), *Report of the High
 "Open Ownership: UK Leads" (with Alex Cobham), *Center for Global Development*, October 2013. [Link](https://www.cgdev.org/blog/open-ownership-uk-leads).
 
 "Europe’s Policy Footprint on Development" (with Owen Barder and Liza Reynolds), *Center for Global Development*, December 2012. [Link](https://www.cgdev.org/blog/europe%E2%80%99s-policy-footprint-development).
-
