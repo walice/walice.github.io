@@ -13,12 +13,3 @@ I have served as a Teaching Assistant for courses taught in the department of Po
 ### ESM 210 Business and the Environment
 
 ### ESM 269 & ED 218 Survey Design and Environmental Public Opinion
-
-## Fall 2019 Office Hours
-* Wednesday 1:00pm-2:30pm in Bren 3418
-* Or by appointment
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/alice-lepissier/office-hours" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->

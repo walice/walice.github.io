@@ -36,7 +36,9 @@ Annex IV of "Track it! Stop it! Get it!" (with Alex Cobham), *Report of the High
 
 "Europe Beyond Aid: Assessing Europe’s Commitment to Development" (with Owen Barder, Julia Clark, David Roodman, and Liza Reynolds), *CGD Working Paper Series*, Working Paper 313, 2012. [Paper](https://www.cgdev.org/publication/europe-beyond-aid-assessing-europe%E2%80%99s-commitment-development-working-paper-313).
 
-## Blog posts
+## Popular writing
+
+"SkyShares: An Idea to Stop Climate Change Effectively, Efficiently, and Equitably" (with Arthur Baker), *Center for Global Development*, December 2019. [Link](https://www.cgdev.org/blog/skyshares-idea-stop-climate-change-effectively-efficiently-and-equitably).
 
 "Workable Policies to Fight Climate Change and Bridge the Interests of Developing and Industrialized Countries", *SSN Key Findings Brief*, May 2018. [Link](https://scholars.org/contribution/workable-policies-fight-climate-change-and-bridge-interests-developing-and).
 
