@@ -10,9 +10,9 @@ header:
 
 "Assessing the causal impact of UK climate policy using synthetic controls: an impact analysis of the 2001 Climate Change Programme" (with Matto Mildenberger).
 
-"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Code](https://github.com/walice/Trade-IFF).
+"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Code](https://github.com/walice/Trade-IFF). <a href="https://doi.org/10.5281/zenodo.3610558"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610558.svg" alt="DOI"></a>
 
-"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). [Code](https://github.com/walice/Risk-Analysis-IFF).
+"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). [Code](https://github.com/walice/Risk-Analysis-IFF). <a href="https://doi.org/10.5281/zenodo.3371739"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3371739.svg" alt="DOI"></a>
 
 ## Publications
 
