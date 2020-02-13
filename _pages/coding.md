@@ -36,7 +36,7 @@ gallery:
 toc: true
 ---
 
-I am committed to open science and research reproducibility. I am passionate about science communication, and I believe that scientific knowledge should be publicly accessible. Here are some of the projects I have worked on over the years (on the more fun/random side of things). You can find the code repositories for my academic papers on my [GitHub](https://github.com/walice) page.
+I am committed to open science principles and research reproducibility. I am passionate about science communication, and I believe that scientific knowledge should be publicly accessible. Here are some of the projects I have worked on over the years (on the more fun/random side of things). You can find the code repositories for my academic papers on my [GitHub](https://github.com/walice) page.
 
 ## Interpolation using Bézier splines
 
@@ -77,7 +77,7 @@ The images below show how the genetic algorithm performs for image reconstructio
 
 While I was at the [Center for Global Development](https://www.cgdev.org/), I created an interactive tool that allows users to simulate the economic and environmental implications of a climate deal called [SkyShares](http://www.skyshares.org/). You can find more information on SkyShares in the [climate change section](/research/02-climatechange//#skyshares) of my research page.
 
-SkyShares is publicy available and open source. It is written in JavaScript with Node.js. SkyShares also exists as a stand-alone Excel interactive workbook (see the documentation tab of SkyShares to download SkyShares Desktop).
+SkyShares is publicy available and open source. It is written in JavaScript with a Node.js back-end and a MongoDB database. SkyShares also exists as a stand-alone Excel interactive workbook (see the documentation tab of SkyShares to download SkyShares Desktop).
 
 The website allows users to select which countries will participate in the climate coalition, and to choose parameters of the climate deal such as the temperature target and how much trading to allow. The website then calculates the carbon budget, financial flows, and decarbonization costs that would ensue as a result. Users can visualize the evolution of the financial flows between countries in the future.
 

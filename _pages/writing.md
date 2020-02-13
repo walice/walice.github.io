@@ -8,7 +8,7 @@ header:
 
 ## Working papers
 
-"Assessing the causal impact of UK climate policy using synthetic controls: an impact analysis of the 2001 Climate Change Programme" (with Matto Mildenberger).
+"Hybrid climate policy instruments can substantially reduce national carbon pollution" (with Matto Mildenberger).
 
 "Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Code](https://github.com/walice/Trade-IFF). <a href="https://doi.org/10.5281/zenodo.3610558"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610558.svg" alt="DOI"></a>
 
