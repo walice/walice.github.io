@@ -15,6 +15,6 @@ Prior to joining the Bren School, I was a researcher at the [Center for Global D
 
 I have consulted for organizations such as the [United Nations Economic Commission for Africa](https://www.uneca.org/), the [Tax Justice Network](https://www.taxjustice.net/), and the [Business & Sustainable Development Commission](http://businesscommission.org/).
 
-I am finishing up my MA in [Statistics](https://www.pstat.ucsb.edu/) at UCSB. I hold an MSc in [Economic History](http://www.lse.ac.uk/Economic-History) from the London School of Economics, and an MSc in Economics and Public Policy from [Sciences Po Paris](https://www.sciencespo.fr/public/en.html) and [École Polytechnique](https://www.polytechnique.edu/en). My Bachelors was in [European Social and Political Studies](https://www.ucl.ac.uk/european-international-social-political-studies/) from University College London.
+I have an MA in [Statistics](https://www.pstat.ucsb.edu/) at UCSB. I also hold an MSc in [Economic History](http://www.lse.ac.uk/Economic-History) from the London School of Economics, and an MSc in Economics and Public Policy from [Sciences Po Paris](https://www.sciencespo.fr/public/en.html) and [École Polytechnique](https://www.polytechnique.edu/en). My Bachelors was in [European Social and Political Studies](https://www.ucl.ac.uk/european-international-social-political-studies/) from University College London.
 
 I am affiliated with the [ENVENT](https://www.enventlab.com/) and the [Conservation Economics](http://conservation-econ.com/) labs at UCSB.

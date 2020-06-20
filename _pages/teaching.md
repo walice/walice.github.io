@@ -10,6 +10,8 @@ header:
 
 I will be the Instructor of Record for **Introduction to Research Methods in Political Science** during Summer 2020. The course exposes undergraduate students to quantitative research in political science. It introduces them to probability, statistical inference, and regression analysis. Students are trained to code in R. Emphasis is placed on thinking critically about the nature of causality in the social sciences.
 
+You can find my syllabus [here](/assets/M20-POLS-15-Syllabus.pdf).
+
 ## Teaching Assistant
 
 I have served as a Teaching Assistant for courses taught in the department of Political Science, at the Bren School of Environmental Science & Management, and in the department of Education. In 2020, I was nominated to the Outstanding Teaching Assistant Award by the Academic Senate at UCSB.
