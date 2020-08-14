@@ -38,24 +38,30 @@ toc: true
 
 I am committed to open science principles and research reproducibility. I am passionate about science communication, and I believe that scientific knowledge should be publicly accessible. Here are some of the projects I have worked on over the years (on the more fun/random side of things). You can find the code repositories for my academic papers on my [GitHub](https://github.com/walice) page.
 
-## Interpolation using Bézier splines
+## Unsupervised machine learning on illicit trade
 
-<i class="fab fa-github"></i> [GitHub repository](https://github.com/walice/beziersplines)
+**I've written up this project as an online Jupyter book. Check it out at [https://alicelepissier.com/jupyter-book-IFF/](https://alicelepissier.com/jupyter-book-IFF/).**
 
-Have you ever wondered what smoothing algorithm Excel uses to fit smooth curves on a XY scatter? Have you ever found yourself trying to read Y values off an Excel XY scatter plot? I did.
+[<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--danger}
 
-Microsoft is not transparent about how it creates the smooth fit between data points in the scatter plots. In fact, it uses a type of parametric curve called a Bézier curve; specifically, a third order Bézier curve with 4 control points. It is a type of cubic spline and avoids some of the [oscillation problems](http://en.wikipedia.org/wiki/Runge's_phenomenon) which typically occur when using high degree polynomials for interpolation.
+This project is entirely reproducible. Click on the following icon to run the code yourself (without needing to install any software at all!). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/walice/jupyter-book-IFF/gh-pages?urlpath=lab/tree/work/_sources/Unsupervised-learning-trade.ipynb)
+{: .notice--warning}
 
-I created an Excel add-in to interpolate along Excel's smooth line scatter plots. The add-in also comes in with a function to linearly interpolate and extrapolate.
+This project applies a series of unsupervised machine learning techniques to extract insights from the data on illicit trade that I developed for the United Nations.
 
-The gallery below showcases the performance of the Bézier spline interpolator on a variety of test functions.
+Following the establishment of the High Level Panel on Illicit Financial Flows from Africa in 2015, the scale and severity of the problem has been well-recognized by policy-makers and NGOs. The next steps now are to move beyond scale estimates and to start understanding the nature, mechanisms, and directions of illicit trade on the continent. This project takes the first steps towards that goal.
 
-{% include gallery 
-  caption = "Performance of the interpolation function." %}
+I have utilized unsupervised machine learning techniques such as dimension reduction, clustering, and network analysis to extract meaningful insights from the data.
+
+Strong subregional effects are apparent in illicit trade within the continent. This suggests that initiatives to combat illicit flows could be anchored within the Regional Economic Communities of the African Union, such as ECOWAS.
+
+The figure below displays the evolution of the network of illicit financial outflows originating from the continent as a result of trade mis-invoicing.
+
+![Evolution of network of illicit trade](/assets/images/network-IFF4.gif)
 
 ## Genetic algorithm
 
-<i class="fab fa-github"></i> [GitHub repository](https://github.com/walice/Genetic-Algorithm)
+[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/Genetic-Algorithm){: .btn .btn--primary}
 
 Inspired by Darwinian natural selection, genetic algorithms (GA) are exercises in combinatorial optimization that can be used to solve hard optimization problems. Genetic algorithms mimic the process of evolution where only the "fittest" individuals survive over many generations. Starting from a randomly generated population, a GA applies a variety of "genetic operators" so that individuals in the population reproduce, mutate, and clone themselves in order to optimize an objective function called the "fitness function".
 
@@ -73,7 +79,7 @@ The images below show how the genetic algorithm performs for image reconstructio
 
 **Check out the website at [www.skyshares.org](http://www.skyshares.org/).**
 
-<i class="fab fa-github"></i> [GitHub repository](https://github.com/walice/skyshares)
+[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/skyshares){: .btn .btn--primary}
 
 While I was at the [Center for Global Development](https://www.cgdev.org/), I created an interactive tool that allows users to simulate the economic and environmental implications of a climate deal called [SkyShares](http://www.skyshares.org/). You can find more information on SkyShares in the [climate change section](/research/02-climatechange//#skyshares) of my research page.
 
@@ -84,3 +90,18 @@ The website allows users to select which countries will participate in the clima
 The simulation below displays what the financial flows would be (buyers of carbon are in red, sellers of carbon are in black) as a result of a carbon budget consistent with a 2°C target, an allocation rule converging to per capita shares in 2030, and full carbon trading.
 
 ![SkyShares evolution of financial flows](/assets/images/skyshares-evolution-flows.gif)
+
+## Interpolation using Bézier splines
+
+[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/beziersplines){: .btn .btn--primary}
+
+Have you ever wondered what smoothing algorithm Excel uses to fit smooth curves on a XY scatter? Have you ever found yourself trying to read Y values off an Excel XY scatter plot? I did.
+
+Microsoft is not transparent about how it creates the smooth fit between data points in the scatter plots. In fact, it uses a type of parametric curve called a Bézier curve; specifically, a third order Bézier curve with 4 control points. It is a type of cubic spline and avoids some of the [oscillation problems](http://en.wikipedia.org/wiki/Runge's_phenomenon) which typically occur when using high degree polynomials for interpolation.
+
+I created an Excel add-in to interpolate along Excel's smooth line scatter plots. The add-in also comes in with a function to linearly interpolate and extrapolate.
+
+The gallery below showcases the performance of the Bézier spline interpolator on a variety of test functions.
+
+{% include gallery 
+  caption = "Performance of the interpolation function." %}

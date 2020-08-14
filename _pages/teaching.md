@@ -8,14 +8,12 @@ header:
 
 ## Instructor of Record
 
-I was the Instructor of Record for **Introduction to Research Methods in Political Science** during Summer 2020. The course exposes undergraduate students to quantitative research in political science. It introduces them to probability, statistical inference, and regression analysis. Students are trained to code in R. Emphasis is placed on thinking critically about the nature of causality in the social sciences.
-
-You can find my syllabus [here](/assets/M20-POLS-15-Syllabus.pdf).
+I was the Instructor of Record for **Introduction to Research Methods in Political Science** during Summer 2020. The course exposes undergraduate students to quantitative research in political science. It introduces them to probability, statistical inference, and regression analysis. Students are trained to code in R. Emphasis is placed on thinking critically about the nature of causality in the social sciences. [Syllabus](/assets/M20-POLS-15-Syllabus.pdf){: .btn .btn--info}
 
 The course was delivered remotely using a mix of synchronous and asynchronous delivery. See below for some selected slides and video lectures:
-- (Just for Fun) How to Lie with Data and Statistics <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-How-To-Lie-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-How-To-Lie-slides.html)
-- What is Data Science? <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-What-Is-Data-Science-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-What-Is-Data-Science-slides.html)
-- The Data Science Workflow <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-Data-Science-Workflow-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-Data-Science-Workflow-slides.html)
+- (Just for Fun) How to Lie with Data and Statistics [<i class="fas fa-video"></i> Video](/assets/teaching/POLS-15-How-To-Lie-video.html){: .btn .btn--primary} [<i class="fas fa-book"></i> Slides](/assets/teaching/POLS-15-How-To-Lie-slides.html){: .btn .btn--danger}
+- What is Data Science? [<i class="fas fa-video"></i> Video](/assets/teaching/POLS-15-What-Is-Data-Science-video.html){: .btn .btn--primary} [<i class="fas fa-book"></i> Slides](/assets/teaching/POLS-15-What-Is-Data-Science-slides.html){: .btn .btn--danger}
+- The Data Science Workflow [<i class="fas fa-video"></i> Video](/assets/teaching/POLS-15-Data-Science-Workflow-video.html){: .btn .btn--primary} [<i class="fas fa-book"></i> Slides](/assets/teaching/POLS-15-Data-Science-Workflow-slides.html){: .btn .btn--danger}
 
 ## Teaching Assistant
 
