@@ -8,7 +8,7 @@ header:
 
 ## Instructor of Record
 
-Test: Click [here](/assets/Conduits-IFF-Risk.html) for interactive maps
+Test: Click [here](/assets/POLS-15-How-To-Lie-video.html) for interactive maps
 
 I was the Instructor of Record for **Introduction to Research Methods in Political Science** during Summer 2020. The course exposes undergraduate students to quantitative research in political science. It introduces them to probability, statistical inference, and regression analysis. Students are trained to code in R. Emphasis is placed on thinking critically about the nature of causality in the social sciences.
 
