@@ -13,7 +13,7 @@ I was the Instructor of Record for **Introduction to Research Methods in Politic
 You can find my syllabus [here](/assets/M20-POLS-15-Syllabus.pdf).
 
 The course was delivered remotely using a mix of synchronous and asynchronous delivery. See below for some selected slides and video lectures:
-- (Just for Fun) How to Lie with Data and Statistics <i class="fas fa-video"></i> [video](/assets/POLS-15-How-To-Lie-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-How-To-Lie-slides.html)
+- (Just for Fun) How to Lie with Data and Statistics <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-How-To-Lie-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-How-To-Lie-slides.html)
 - What is Data Science? <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-What-Is-Data-Science-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-What-Is-Data-Science-slides.html)
 - The Data Science Workflow <i class="fas fa-video"></i> [video](/assets/teaching/POLS-15-Data-Science-Workflow-video.html) <i class="fas fa-book"></i> [slides](/assets/teaching/POLS-15-Data-Science-Workflow-slides.html)
 
