@@ -38,9 +38,17 @@ toc: true
 
 I am committed to open science principles and research reproducibility. I am passionate about science communication, and I believe that scientific knowledge should be publicly accessible. Here are some of the projects I have worked on over the years (on the more fun/random side of things). You can find the code repositories for my academic papers on my [GitHub](https://github.com/walice) page.
 
+## Scraping daily COVID data
+
+**Check out the data at [https://alicelepissier.com/COVID-SB](https://alicelepissier.com/COVID-SB/).**
+
+[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/COVID-SB){: .btn .btn--primary}
+
+This project scrapes the daily reopening metrics for the county of Santa Barbara from the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyDataTable.aspx). The website is automatically scraped every day.
+
 ## Unsupervised machine learning on illicit trade
 
-**I've written up this project as an online Jupyter book. Check it out at [https://alicelepissier.com/jupyter-book-IFF/](https://alicelepissier.com/jupyter-book-IFF/).**
+**I've written up this project as an online Jupyter book. Check it out at [https://alicelepissier.com/jupyter-book-IFF](https://alicelepissier.com/jupyter-book-IFF/).**
 
 [<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--danger}
 
