@@ -98,3 +98,10 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+/* Highlight notice */
+
+.notice--highlight {
+  @include notice($primary-color);
+  font-size: $type-size-5 !important;
+}

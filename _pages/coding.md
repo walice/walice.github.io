@@ -40,20 +40,16 @@ I am committed to open science principles and research reproducibility. I am pas
 
 ## Scraping daily COVID data
 
-**Check out the data at [https://alicelepissier.com/COVID-SB](https://alicelepissier.com/COVID-SB/).**
-
-[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/COVID-SB){: .btn .btn--primary}
+[Check out the live data](https://alicelepissier.com/COVID-SB/){: .btn .btn--website} [<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/COVID-SB){: .btn .btn--primary}
 
 This project scrapes the daily reopening metrics for the county of Santa Barbara from the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyDataTable.aspx). The website is automatically scraped every day.
 
 ## Unsupervised machine learning on illicit trade
 
-**I've written up this project as an online Jupyter book. Check it out at [https://alicelepissier.com/jupyter-book-IFF](https://alicelepissier.com/jupyter-book-IFF/).**
-
-[<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--danger}
+[Check out the online book](https://alicelepissier.com/jupyter-book-IFF/){: .btn .btn--website} [<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--slides}
 
 This project is entirely reproducible. Click on the following icon to run the code yourself (without needing to install any software at all!). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/walice/jupyter-book-IFF/gh-pages?urlpath=lab/tree/work/_sources/Unsupervised-learning-trade.ipynb)
-{: .notice--warning}
+{: .notice--highlight}
 
 This project applies a series of unsupervised machine learning techniques to extract insights from the data on illicit trade that I developed for the United Nations.
 
@@ -85,9 +81,7 @@ The images below show how the genetic algorithm performs for image reconstructio
 
 ## SkyShares
 
-**Check out the website at [www.skyshares.org](http://www.skyshares.org/).**
-
-[<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/skyshares){: .btn .btn--primary}
+[Check out the website](http://www.skyshares.org/){: .btn .btn--website} [<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/skyshares){: .btn .btn--primary}
 
 While I was at the [Center for Global Development](https://www.cgdev.org/), I created an interactive tool that allows users to simulate the economic and environmental implications of a climate deal called [SkyShares](http://www.skyshares.org/). You can find more information on SkyShares in the [climate change section](/research/02-climatechange//#skyshares) of my research page.
 

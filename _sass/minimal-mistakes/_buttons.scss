@@ -39,7 +39,18 @@
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (skyshares-teal, $skyshares-teal-color),
+  (skyshares-red, $skyshares-red-color),
+  (skyshares-gold, $skyshares-gold-color),
+  (skyshares-mint, $skyshares-mint-color),
+  (skyshares-purple, $skyshares-purple-color),
+  (document, $document-color),
+  (website, $website-color),
+  (slides, $slides-color),
+  (video, $video-color),
+  (blog, $blog-color),
+  (media, $media-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
