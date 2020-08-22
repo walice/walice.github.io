@@ -46,7 +46,7 @@ This project scrapes the daily reopening metrics for the county of Santa Barbara
 
 ## Unsupervised machine learning on illicit trade
 
-[Check out the online book](https://alicelepissier.com/jupyter-book-IFF/){: .btn .btn--website} [<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--slides}
+[Check out the online book](https://alicelepissier.com/jupyter-book-IFF/){: .btn .btn--website} [<i class="fas fa-book"></i> Presentation](/assets/Unsupervised-learning-trade.slides.html){: .btn .btn--slides} [<i class="fab fa-github"></i> GitHub repository](https://github.com/walice/Unsupervised-Learning-IFF){: .btn .btn--primary}
 
 This project is entirely reproducible. Click on the following icon to run the code yourself (without needing to install any software at all!). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/walice/jupyter-book-IFF/gh-pages?urlpath=lab/tree/work/_sources/Unsupervised-learning-trade.ipynb)
 {: .notice--highlight}
