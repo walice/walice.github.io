@@ -6,6 +6,10 @@ header:
   caption: Canal des Pangalanes, Madagascar, 2010. <i class="fas fa-camera"></i> A. Lépissier
 ---
 
+## GitHub Tutorial - 5 minute Git
+
+[<i class="fas fa-book"></i> Tutorial](https://alicelepissier.com/git-tutorial/slides.html){: .btn .btn--slides}
+
 ## Instructor of Record
 
 I was the Instructor of Record for **Introduction to Research Methods in Political Science** during Summer 2020. The course exposes undergraduate students to quantitative research in political science. It introduces them to probability, statistical inference, and regression analysis. Students are trained to code in R. Emphasis is placed on thinking critically about the nature of causality in the social sciences. [Syllabus](/assets/M20-POLS-15-Syllabus.pdf){: .btn .btn--document}
