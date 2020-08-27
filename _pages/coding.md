@@ -1,9 +1,13 @@
 ---
 title: "Coding"
 permalink: /coding/
+author_profile: false
 header:
   image: /assets/photography/2009.08.25-Java-Mount-Bromo_wide.jpg
   caption: Mount Bromo, Indonesia, 2009. <i class="fas fa-camera"></i> A. Lépissier
+sidebar:
+  - title: My technology stack
+  - image: /assets/images/hex-wall.png
 gallery:
   - url: /assets/images/bezier-demo.png
     image_path: /assets/images/bezier-demo.png
