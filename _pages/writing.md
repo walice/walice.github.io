@@ -8,7 +8,7 @@ header:
 
 ## Working papers
 
-"Hybrid climate policy instruments can substantially reduce national carbon pollution" (with Matto Mildenberger). [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549050
+"Hybrid climate policy instruments can substantially reduce national carbon pollution" (with Matto Mildenberger). *Revise and resubmit.* [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549050
 ){: .btn .btn--document}
 
 "Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). <a href="https://doi.org/10.5281/zenodo.3610558"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610558.svg" alt="DOI"></a> [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--primary}
@@ -22,6 +22,9 @@ header:
 "Europe Beyond Aid: Assessing European countries’ individual and collective commitment to development" (with Owen Barder, Julia Clark, David Roodman, and Liza Reynolds), *Journal of International Development*, 25:6, 832-853, 2013. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.2933){: .btn .btn--document}
 
 ### Other papers
+
+"Vulnerability and Exposure to Illicit Financial Flows risk in Latin America" (with Alex Cobham, Javier Garcia-Bernardo, Moran Harari, Shanna Lima, Markus Meinzer, Lidana Montoya
+Fernández, and Luis Moreno), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2021/01/Vulnerability-and-exposure-to-illicit-financial-flows-risk-in-Latin-America-Tax-Justice-Network-Jan-2021.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
 
 "Vulnerability and Exposure to Illicit Financial Flows risk in Africa" (with Charles Abugre, Alex Cobham, Rachel Etter-Phoya, Markus Meinzer, Nara Monkam, and Alvin Mosioma), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2019/08/Vulnerability-and-Exposure-to-Illicit-Financial-Flows-risk-in-Africa_August-2019_Tax-Justice-Network.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
 
