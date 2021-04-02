@@ -24,7 +24,7 @@ header:
 ### Other papers
 
 "Vulnerability and Exposure to Illicit Financial Flows risk in Latin America" (with Alex Cobham, Javier Garcia-Bernardo, Moran Harari, Shanna Lima, Markus Meinzer, Lidana Montoya
-Fernández, and Luis Moreno), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2021/01/Vulnerability-and-exposure-to-illicit-financial-flows-risk-in-Latin-America-Tax-Justice-Network-Jan-2021.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
+Fernández, and Luis Moreno), Tax Justice Network, 2021. [Paper](https://www.taxjustice.net/wp-content/uploads/2021/01/Vulnerability-and-exposure-to-illicit-financial-flows-risk-in-Latin-America-Tax-Justice-Network-Jan-2021.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
 
 "Vulnerability and Exposure to Illicit Financial Flows risk in Africa" (with Charles Abugre, Alex Cobham, Rachel Etter-Phoya, Markus Meinzer, Nara Monkam, and Alvin Mosioma), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2019/08/Vulnerability-and-Exposure-to-Illicit-Financial-Flows-risk-in-Africa_August-2019_Tax-Justice-Network.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
 
