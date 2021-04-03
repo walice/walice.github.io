@@ -137,9 +137,3 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-154449128-1"
-    anonymize_ip: false # default
