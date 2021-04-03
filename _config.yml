@@ -137,3 +137,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+
+analytics:
+  provider: "custom"
