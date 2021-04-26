@@ -8,9 +8,6 @@ header:
 
 ## Working papers
 
-"Hybrid climate policy instruments can substantially reduce national carbon pollution" (with Matto Mildenberger). *Revise and resubmit.* [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549050
-){: .btn .btn--document}
-
 "Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). <a href="https://doi.org/10.5281/zenodo.3610558"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610558.svg" alt="DOI"></a> [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--primary}
 
 "Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). <a href="https://doi.org/10.5281/zenodo.3371739"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3371739.svg" alt="DOI"></a> [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
@@ -18,6 +15,9 @@ header:
 ## Publications
 
 ### Peer-reviewed
+
+"Unilateral climate policies can substantially reduce national carbon pollution" (with Matto Mildenberger). Forthcoming in *Climatic Change*. [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549050
+){: .btn .btn--document}
 
 "Europe Beyond Aid: Assessing European countries’ individual and collective commitment to development" (with Owen Barder, Julia Clark, David Roodman, and Liza Reynolds), *Journal of International Development*, 25:6, 832-853, 2013. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.2933){: .btn .btn--document}
 
