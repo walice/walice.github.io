@@ -8,9 +8,9 @@ header:
 
 ## Working papers
 
-"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). <a href="https://doi.org/10.5281/zenodo.3610558"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3610558.svg" alt="DOI"></a> [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--primary}
+"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Data](https://doi.org/10.5281/zenodo.3610558){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--primary}
 
-"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). <a href="https://doi.org/10.5281/zenodo.3371739"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3371739.svg" alt="DOI"></a> [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
+"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). [Data](https://doi.org/10.5281/zenodo.3371739){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
 
 ## Publications
 

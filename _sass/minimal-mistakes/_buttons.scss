@@ -50,7 +50,8 @@
   (slides, $slides-color),
   (video, $video-color),
   (blog, $blog-color),
-  (media, $media-color);
+  (media, $media-color),
+  (data, $data-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
