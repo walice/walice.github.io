@@ -27,7 +27,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.16.6
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -125,6 +125,16 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      show_date: false
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      show_date: true
 
 category_archive:
   type: liquid
@@ -135,6 +145,9 @@ tag_archive:
 
 collections:
   research:
+    output: true
+    permalink: /:collection/:path/
+  tutorials:
     output: true
     permalink: /:collection/:path/
 
