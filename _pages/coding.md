@@ -38,6 +38,8 @@ gallery:
     alt: "Exp X"
     title: "Exp X"
 toc: true
+toc_icon: bars
+toc_sticky: true
 ---
 
 I am committed to open science principles and research reproducibility. I am passionate about science communication, and I believe that scientific knowledge should be publicly accessible. Here are some of the projects I have worked on over the years (on the more fun/random side of things). You can find the code repositories for my academic papers on my [GitHub](https://github.com/walice) page.

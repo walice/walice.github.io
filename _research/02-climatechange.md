@@ -1,6 +1,8 @@
 ---
 title: "Climate Change"
 toc: true
+toc_icon: bars
+toc_sticky: true
 feature_row:
   - image_path: assets/images/skyshares-cap.png
     alt: "Cap"

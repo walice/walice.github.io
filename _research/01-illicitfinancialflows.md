@@ -1,6 +1,8 @@
 ---
 title: "Illicit Financial Flows"
 toc: true
+toc_icon: bars
+toc_sticky: true
 ---
 
 Illicit financial flows (IFF) designates cross-border flows of capital that has been illicitly earned, transferred, or used. As a trained development economist, I study illicit financial flows and their implications for development. In addition to depleting foreign exchange reserves and eroding tax revenues, illicit financial flows worsen poverty, undermine the rule of law, and weaken state institutions.
