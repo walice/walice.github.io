@@ -9,9 +9,9 @@ classes: wide
 
 ## Working papers
 
-"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Data](https://doi.org/10.5281/zenodo.3610558){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--primary}
+"Illicit financial flows from trade mis-invoicing in developing countries" (with William Davis and Gamal Ibrahim). [Data](https://doi.org/10.5281/zenodo.3610558){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Trade-IFF){: .btn .btn--code}
 
-"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). [Data](https://doi.org/10.5281/zenodo.3371739){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
+"Risk measures for illicit financial flows. A new international data set" (with Alex Cobham). [Data](https://doi.org/10.5281/zenodo.3371739){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--code}
 
 ## Publications
 
@@ -25,9 +25,9 @@ classes: wide
 ### Other papers
 
 "Vulnerability and Exposure to Illicit Financial Flows risk in Latin America" (with Alex Cobham, Javier Garcia-Bernardo, Moran Harari, Shanna Lima, Markus Meinzer, Lidana Montoya
-Fernández, and Luis Moreno), Tax Justice Network, 2021. [Paper](https://www.taxjustice.net/wp-content/uploads/2021/01/Vulnerability-and-exposure-to-illicit-financial-flows-risk-in-Latin-America-Tax-Justice-Network-Jan-2021.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
+Fernández, and Luis Moreno), Tax Justice Network, 2021. [Paper](https://www.taxjustice.net/wp-content/uploads/2021/01/Vulnerability-and-exposure-to-illicit-financial-flows-risk-in-Latin-America-Tax-Justice-Network-Jan-2021.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--code}
 
-"Vulnerability and Exposure to Illicit Financial Flows risk in Africa" (with Charles Abugre, Alex Cobham, Rachel Etter-Phoya, Markus Meinzer, Nara Monkam, and Alvin Mosioma), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2019/08/Vulnerability-and-Exposure-to-Illicit-Financial-Flows-risk-in-Africa_August-2019_Tax-Justice-Network.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--primary}
+"Vulnerability and Exposure to Illicit Financial Flows risk in Africa" (with Charles Abugre, Alex Cobham, Rachel Etter-Phoya, Markus Meinzer, Nara Monkam, and Alvin Mosioma), Tax Justice Network, 2019. [Paper](https://www.taxjustice.net/wp-content/uploads/2019/08/Vulnerability-and-Exposure-to-Illicit-Financial-Flows-risk-in-Africa_August-2019_Tax-Justice-Network.pdf){: .btn .btn--document} [<i class="fab fa-github"></i> Code](https://github.com/walice/Risk-Analysis-IFF){: .btn .btn--code}
 
 "Technical Background Note for Chapter 5: Cheaper, Cooler, Faster: Reducing Tropical Deforestation for a More Cost-Effective Global Response to Climate Change" in *Why Forests? Why Now?* (with Jonah Busch and Jens Engelmann), *CGD Background Paper*, 2016. [Paper](https://www.cgdev.org/sites/default/files/why-forests-chapter5-background-note.pdf){: .btn .btn--document}
 
@@ -37,7 +37,7 @@ Fernández, and Luis Moreno), Tax Justice Network, 2021. [Paper](https://www.tax
 
 "A global emissions budget" in *Climate 2020 - Facing the future* (with Owen Barder and Alex Evans), Report by the United Nations Association - UK, 2015. [Paper](http://e59114bec18f33b2ba6d-67d853478b97815e7adb8b9373d7dc7d.r53.cf2.rackcdn.com/CLIMATE2020.pdf){: .btn .btn--document}
 
-Annex IV of "Track it! Stop it! Get it!" (with Alex Cobham), *Report of the High Level Panel on Illicit Financial Flows from Africa*, Commissioned by the AU/ECA Conference of Ministers of Finance, Planning and Economic Development, 2015. [Paper](https://www.uneca.org/sites/default/files/PublicationFiles/iff_main_report_26feb_en.pdf){: .btn .btn--document} [Media coverage](https://www.theguardian.com/global-development/2015/feb/02/africa-tax-avoidance-money-laundering-illicit-financial-flows){: .btn .btn--media} [<i class="fab fa-github"></i> Code](https://github.com/walice/Illicit-financial-flows){: .btn .btn--primary}
+Annex IV of "Track it! Stop it! Get it!" (with Alex Cobham), *Report of the High Level Panel on Illicit Financial Flows from Africa*, Commissioned by the AU/ECA Conference of Ministers of Finance, Planning and Economic Development, 2015. [Paper](https://www.uneca.org/sites/default/files/PublicationFiles/iff_main_report_26feb_en.pdf){: .btn .btn--document} [Media coverage](https://www.theguardian.com/global-development/2015/feb/02/africa-tax-avoidance-money-laundering-illicit-financial-flows){: .btn .btn--media} [<i class="fab fa-github"></i> Code](https://github.com/walice/Illicit-financial-flows){: .btn .btn--code}
 
 "Europe Beyond Aid: Assessing Europe’s Commitment to Development" (with Owen Barder, Julia Clark, David Roodman, and Liza Reynolds), *CGD Working Paper Series*, Working Paper 313, 2012. [Paper](https://www.cgdev.org/publication/europe-beyond-aid-assessing-europe%E2%80%99s-commitment-development-working-paper-313){: .btn .btn--document}
 

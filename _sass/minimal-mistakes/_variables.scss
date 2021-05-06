@@ -70,7 +70,55 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #6f777d !default;
+/* Skin: Sunset
+$primary-color: #422B3AFF !default;
+$link-color: #53777AFF !default;
+$document-color: #390E40FF !default;
+$website-color: #701C34FF !default;
+$slides-color: #A63228FF !default;
+$video-color: #C7662AFF !default;
+$blog-color: #EBA42BFF !default;
+$media-color: #C12942FF !default;
+$data-color: #542437FF !default;
+$code-color: #9E443FFF !default; */
+
+/* Skin: Nord */
+$primary-color: #222B4C !default;
+$link-color: #81A1C1 !default;
+$document-color: #BF616A !default;
+$website-color: #DA7698 !default;
+$slides-color: #F2E77E !default;
+$video-color: #625377 !default;
+$blog-color: #B48EAD !default;
+$media-color: #8FBCBB !default;
+$data-color: #EDDAEB !default;
+$code-color: #4F93B8 !default;
+
+/* Skin: Miami
+$primary-color: #4C9385 !default;
+$link-color: #3FB8AFFF !default;
+$document-color: #7FC7AFFF !default;
+$website-color: #DAD8A7FF !default;
+$slides-color: #FF9E9DFF !default;
+$video-color: #FF3D7FFF !default;
+$blog-color: #F2D1B3 !default;
+$media-color: #F2E77E !default;
+$data-color: #DA7698 !default;
+$code-color: #E3A7C0 !default; */
+
+/* Skin: Antique
+$primary-color: #526A83 !default;
+$link-color: #855C75 !default;
+$document-color: #D9AF6B !default;
+$website-color: #AF6458 !default;
+$slides-color: #736F4C !default;
+$video-color: #625377 !default;
+$blog-color: #68855C !default;
+$media-color: #9C9C5E !default;
+$data-color: #A06177 !default;
+$code-color: #8C785D !default; */
+
+/* $primary-color: #6f777d !default; */
 $success-color: #3fa63f !default;
 $warning-color: #d67f05 !default;
 $danger-color: #ee5f5b !default;
@@ -85,30 +133,14 @@ $skyshares-gold-color: #FFBB36 !default;
 $skyshares-mint-color: #00FF66 !default;
 $skyshares-purple-color: #CC00FF !default;
 
-/* Custom palette: Color View from https://www.design-seeds.com/category/wander/
-$document-color: #D8E7FA !default;
-$website-color: #7C9080 !default;
-$slides-color: #776E81 !default;
-$video-color: #A091B7 !default;
-$blog-color: #CEC3DF !default;
-$media-color: #DED9E3 !default; */
-
-/* Custom palette: https://coolors.co/ffc857-e9724c-c5283d-872331-481d24-255f85-6c9a8b */
+/* Custom palette: https://coolors.co/ffc857-e9724c-c5283d-872331-481d24-255f85-6c9a8b
 $document-color: #FFC857 !default;
 $website-color: #E9724C !default;
 $slides-color: #C5283D !default;
 $video-color: #481D24 !default;
 $blog-color: #255F85 !default;
 $media-color: #6C9A8B !default;
-$data-color: #872331 !default;
-
-/* Custom palette: https://coolors.co/dab6c4-7b886f-b4dc7f-feffa5-ffa0ac-3c91e6
-$document-color: #DAB6C4 !default;
-$website-color: #7B886F !default;
-$slides-color: #B4DC7F !default;
-$video-color: #FEFFA5 !default;
-$blog-color: #FFA0AC !default;
-$media-color: #3C91E6 !default; */
+$data-color: #872331 !default; */
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -143,7 +175,7 @@ $youtube-color: #bb0000 !default;
 $xing-color: #006567 !default;
 
 /* links */
-$link-color: mix(#000, $info-color, 20%) !default;
+/* $link-color: mix(#000, $info-color, 20%) !default; */
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $link-color-visited: mix(#fff, $link-color, 15%) !default;
 $masthead-link-color: $primary-color !default;

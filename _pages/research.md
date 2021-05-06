@@ -3,7 +3,9 @@ title: "Research"
 layout: splash
 permalink: /research/
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/photography/2010.09.13-Madagascar-Isalo.jpg
+  overlay_filter: rgba(34,43,76,0.5)
+  caption: Isalo window, Madagascar, 2010. <i class="fas fa-camera"></i> A. Lépissier
 excerpt: "At the intersection of political economy and data science."
 feature_row:
   - image_path: assets/photography/Vietnam-Ha-Long-Bay-1-copy.jpg

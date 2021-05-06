@@ -51,7 +51,8 @@
   (video, $video-color),
   (blog, $blog-color),
   (media, $media-color),
-  (data, $data-color);
+  (data, $data-color),
+  (code, $code-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
