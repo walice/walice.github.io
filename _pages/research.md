@@ -3,12 +3,13 @@ title: "Research"
 layout: splash
 permalink: /research/
 header:
-  overlay_image: /assets/photography/2010.09.13-Madagascar-Isalo.jpg
-  overlay_filter: rgba(34,43,76,0.5)
-  caption: Isalo window, Madagascar, 2010. <i class="fas fa-camera"></i> A. Lépissier
+  overlay_image: /assets/photography/Isla-Vista_1_header.jpg
+  overlay_color: "#000"
+  overlay_filter: 0.5
+  caption: Isla Vista, USA, 2021. <i class="fas fa-camera"></i> Alice Lépissier
 excerpt: "At the intersection of political economy and data science."
 feature_row:
-  - image_path: assets/photography/Vietnam-Ha-Long-Bay-1-copy.jpg
+  - image_path: assets/photography/Vietnam-Ha-Long-Bay_1_filter.jpg
     image_caption: <i class="fas fa-camera"></i> AL
     alt: "Illicit Financial Flows"
     title: "Illicit Financial Flows"
@@ -16,7 +17,7 @@ feature_row:
     url: /research/01-illicitfinancialflows/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/photography/2010-09-10-canal-des-Pangalanes-copy.jpg
+  - image_path: /assets/photography/2010-09-10-Canal-des-Pangalanes_3_filter.jpg
     image_caption: <i class="fas fa-camera"></i> AL
     alt: "Climate Change"
     title: "Climate Change"
@@ -24,7 +25,7 @@ feature_row:
     url: /research/02-climatechange/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/photography/2010-09-18-between-Mangily-and-Tulear.jpg
+  - image_path: /assets/photography/2010-09-18-Between-Mangily-and-Tulear_1.jpg
     image_caption: <i class="fas fa-camera"></i> AL
     alt: "Deforestation"
     title: "Deforestation"

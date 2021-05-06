@@ -2,7 +2,7 @@
 title: "Writing"
 permalink: /writing/
 header:
-  image: /assets/photography/2009.08.28-Bali-Ubud_wide.jpg
+  image: /assets/photography/2009-08-28-Bali-Ubud_wide.jpg
   caption: Ubud, Indonesia, 2009. <i class="fas fa-camera"></i> A. Lépissier
 classes: wide
 ---
