@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/photography/Isla-Vista_1_header.jpg
   overlay_color: "#000"
   overlay_filter: 0.5
-  caption: Isla Vista, USA, 2021. <i class="fas fa-camera"></i> Alice Lépissier
+  caption: Isla Vista, USA, 2021. <i class="fas fa-camera"></i> A. Lépissier
 excerpt: "At the intersection of political economy and data science."
 feature_row:
   - image_path: assets/photography/Vietnam-Ha-Long-Bay_1_filter.jpg
