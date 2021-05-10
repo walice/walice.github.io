@@ -24,8 +24,8 @@ The course was delivered remotely using a mix of synchronous and asynchronous de
 
 I have served as a Teaching Assistant for courses taught in the department of Political Science, at the Bren School of Environmental Science & Management, and in the department of Education. In 2020, I was nominated for the *Outstanding Teaching Assistant Award* by the Academic Senate at UCSB.
 
-### POLS 15 Introduction to Research Design in Political Science
+**POLS 15 Introduction to Research Design in Political Science**
 
-### ESM 210 Business and the Environment
+**ESM 210 Business and the Environment**
 
-### ESM 269 & ED 218 Survey Design and Environmental Public Opinion
+**ESM 269 & ED 218 Survey Design and Environmental Public Opinion**
