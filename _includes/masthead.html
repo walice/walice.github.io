@@ -17,6 +17,18 @@
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
+          <li class="masthead__menu-item">
+            <a href="/assets/vitae.pdf" onclick="doClick(); return false;">CV</a>
+          </li>
+          <script>
+            function doClick() {
+              let theme = sessionStorage.getItem('theme');
+              if(theme === "dark")
+                   window.location.href = "/assets/vitae-dark.pdf";
+                 else
+                   window.location.href = "/assets/vitae.pdf";
+            }
+          </script>
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
