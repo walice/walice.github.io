@@ -64,14 +64,14 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
-$background-color: #fff !default;
+$background-color: #3B4252 !default; /* polar night #2 */
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
+$text-color: #ECEFF4 !default; /* snow storm #3 */
 $muted-text-color: mix(#fff, $text-color, 20%) !default;
-$border-color: $lighter-gray !default;
+$border-color: #4C566A !default; /* polar night #4 */
 $form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$footer-background-color: #2E3440 !default; /* polar night #1 */
 
 /* Skin: Sunset
 $primary-color: #422B3AFF !default;
@@ -86,11 +86,8 @@ $data-color: #542437FF !default;
 $code-color: #9E443FFF !default; */
 
 /* Skin: Nord */
-$primary-color: #324B64 !default; /* lake superior #5 */
-/* $primary-color: #306489 !default; lumina #4 */ 
-/* $primary-color: #222B4C !default; lumina #5 */
-$link-color: #4F93B8 !default; /* lumina #3 */ 
-/* $link-color: #81A1C1 !default; frost #3 */
+$primary-color: #81A1C1 !default; /* frost #3 */
+$link-color: #88C0D0 !default; /* frost #2 */ 
 $document-color: #BF616A !default;
 $website-color: #DA7698 !default;
 $slides-color: #F2E77E !default;
