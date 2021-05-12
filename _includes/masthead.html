@@ -30,8 +30,8 @@
         </button>
         {% endif %}
         {% if site.minimal_mistakes_skin2 %}
-        <button class="theme__toggle" type="button" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;">
-        <span><i class="fas fa-lightbulb"></i></span>
+        <button class="theme__toggle" type="button" id="themeBtn">
+        <i id="themeIcon"></i>
         </button>
         {% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
@@ -51,5 +51,24 @@
          window.location.href = "/assets/vitae-dark.pdf";
        else
          window.location.href = "/assets/vitae.pdf";
+  }
+
+  document.getElementById("themeBtn").addEventListener("click", toggleTheme);
+
+  function toggleTheme() {
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    if(node1.getAttribute('rel') == 'stylesheet') {
+      node1.setAttribute('rel', 'stylesheet alternate'); 
+      node2.setAttribute('rel', 'stylesheet');
+      sessionStorage.setItem('theme', 'dark');
+    } else {
+      node2.setAttribute('rel', 'stylesheet alternate'); 
+      node1.setAttribute('rel', 'stylesheet');
+      sessionStorage.setItem('theme', 'light');
+    } 
+
+    $("#themeIcon").toggleClass('fas fa-moon fas fa-sun');
+
   }
 </script>

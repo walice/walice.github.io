@@ -35,6 +35,18 @@
 {% endif %}
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
+<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script>
+  $( document ).ready(function() {
+      if(sessionStorage.getItem('theme') === "dark") {
+        $("#themeIcon").addClass('fas fa-sun');
+      } else {
+        $("#themeIcon").addClass('fas fa-moon');
+      }
+    });
+</script>
+
+
 <!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
