@@ -17,8 +17,8 @@ classes: wide
 
 ### Peer-reviewed
 
-"Unilateral climate policies can substantially reduce national carbon pollution" (with Matto Mildenberger). Forthcoming in *Climatic Change*. [SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549050
-){: .btn .btn--document}
+"Unilateral climate policies can substantially reduce national carbon pollution" (with Matto Mildenberger), *Climatic Change*, 166:31, 2021. [Paper](https://link.springer.com/content/pdf/10.1007/s10584-021-03111-2.pdf
+){: .btn .btn--document} [Data](https://zenodo.org/record/4566804#.YL_wZPlKiUk){: .btn .btn--data} [<i class="fab fa-github"></i> Code](https://github.com/walice/synth){: .btn .btn--code}
 
 "Europe Beyond Aid: Assessing European countries’ individual and collective commitment to development" (with Owen Barder, Julia Clark, David Roodman, and Liza Reynolds), *Journal of International Development*, 25:6, 832-853, 2013. [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jid.2933){: .btn .btn--document}
 
