@@ -19,7 +19,7 @@ I have an MA in [Statistics](https://www.pstat.ucsb.edu/) from UCSB. I also hold
 
 I am affiliated with the [ENVENT](https://www.enventlab.com/) and the [Conservation Economics](http://conservation-econ.com/) labs at UCSB.
 
-I am incoming Postdoctoral Fellow at the [Climate Solutions Lab](https://watson.brown.edu/climatesolutionslab/) and the [Rhodes Center for International Economics and Finance](https://watson.brown.edu/rhodes/) at the [Watson Institute for International and Public Affairs](https://watson.brown.edu/) at [Brown University](https://www.brown.edu/) (starting November 2021).
+I am an incoming Postdoctoral Fellow at the [Climate Solutions Lab](https://watson.brown.edu/climatesolutionslab/) and the [Rhodes Center for International Economics and Finance](https://watson.brown.edu/rhodes/) at the [Watson Institute for International and Public Affairs](https://watson.brown.edu/) at Brown University (starting November 2021).
 
 <!-- <h3 class="archive__subtitle"><i class="fas fa-thumbtack"></i> Pinned posts</h3>
 {% for post in site.posts %}
